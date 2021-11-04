@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio5</string>
+
+    <string name="deporte1">Baloncesto</string>
+    <string name="deporte2">Beisbol</string>
+    <string name="deporte3">Ciclismo</string>
+    <string name="deporte4">Futbol</string>
+    <string name="deporte5">Golf</string>
+    <string name="deporte6">Hipica</string>
+    <string name="deporte7">Natacion</string>
+    <string name="deporte8">Pinpon</string>
+    <string name="deporte9">Tenis</string>
+</resources>
